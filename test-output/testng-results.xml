@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42508" started-at="2019-01-04T18:39:22Z" finished-at="2019-01-04T18:40:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42508" started-at="2019-01-04T18:39:22Z" finished-at="2019-01-04T18:40:05Z">
+      <class name="MyTestDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:MyTestDemo@3ffc5af1]" name="setup" is-config="true" duration-ms="1755" started-at="2019-01-04T18:39:22Z" finished-at="2019-01-04T18:39:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigationTest()[pri:0, instance:MyTestDemo@3ffc5af1]" name="navigationTest" duration-ms="9849" started-at="2019-01-04T18:39:24Z" finished-at="2019-01-04T18:39:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:MyTestDemo@3ffc5af1]" name="tearDown" is-config="true" duration-ms="106" started-at="2019-01-04T18:39:34Z" finished-at="2019-01-04T18:39:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:MyTestDemo@3ffc5af1]" name="setup" is-config="true" duration-ms="1060" started-at="2019-01-04T18:39:34Z" finished-at="2019-01-04T18:39:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigation_FeatureTest()[pri:0, instance:MyTestDemo@3ffc5af1]" name="navigation_FeatureTest" duration-ms="29585" started-at="2019-01-04T18:39:35Z" finished-at="2019-01-04T18:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation_FeatureTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:MyTestDemo@3ffc5af1]" name="tearDown" is-config="true" duration-ms="129" started-at="2019-01-04T18:40:05Z" finished-at="2019-01-04T18:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MyTestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
